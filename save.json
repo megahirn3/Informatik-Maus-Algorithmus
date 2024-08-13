@@ -1,0 +1,15 @@
+{
+    "generation": 1,
+    "jung": {
+        "gruppe": "jung",
+        "anzahl": 18
+    },
+    "erwachsen": {
+        "gruppe": "erwachsen",
+        "anzahl": 30.0
+    },
+    "alt": {
+        "gruppe": "alt",
+        "anzahl": 1.0
+    }
+}
